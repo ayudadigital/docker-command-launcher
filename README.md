@@ -1,4 +1,4 @@
-# Kairops Docker Command Launcher
+# TIC para Bien - Docker Command Launcher
 
 Simply Bash script to run dockerized commands.
 
@@ -47,9 +47,9 @@ Other options:
 
 ## Available commands
 
-- Commit Validator ([commit-validator](https://github.com/kairops/dc-commit-validator))
-- Get Next Release Number ([get-next-release-number](https://github.com/kairops/dc-get-next-release-number))
-- Git Changelog Generator ([git-changelog-generator](https://github.com/kairops/dc-git-changelog-generator))
-- Hello World! ([hello-world](https://github.com/kairops/dc-hello-world))
-- Markdown to HTML file conversion ([md2html](https://github.com/kairops/dc-md2html))
-- Markdown to Timeline HTML ([mdline](https://github.com/kairops/dc-mdline))
+- Commit Validator ([commit-validator](https://github.com/tpbtools/dc-commit-validator))
+- Get Next Release Number ([get-next-release-number](https://github.com/tpbtools/dc-get-next-release-number))
+- Git Changelog Generator ([git-changelog-generator](https://github.com/tpbtools/dc-git-changelog-generator))
+- Hello World! ([hello-world](https://github.com/tpbtools/dc-hello-world))
+- Markdown to HTML file conversion ([md2html](https://github.com/tpbtools/dc-md2html))
+- Markdown to Timeline HTML ([mdline](https://github.com/tpbtools/dc-mdline))
