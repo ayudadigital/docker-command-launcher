@@ -12,7 +12,7 @@ function echo_debug () {
     fi
 }
 echo_debug "begin"
-echo_debug "Docker Command Launcher (c) Kairops 2019"
+echo_debug "Docker Command Launcher (c) 2019 TIC para Bien"
 
 # Functions
 function removeSentinel() {
@@ -35,14 +35,14 @@ function assertCommandExist () {
 
 # Initialize
 commandList=(
-    commit-validator:0.1.4
-    get-next-release-number:1.1.0
-    git-changelog-generator:1.2.1
-    hello-world:0.3.0
-    md2html:1.2.0
-    mdline:0.2.0
+    commit-validator:1.0.0
+    get-next-release-number:2.0.0
+    git-changelog-generator:2.0.0
+    hello-world:1.0.1
+    md2html:2.0.0
+    mdline:1.0.0
 )
-imagePrefix="kairops/dc-"
+imagePrefix="tpbtools/dc-"
 commandCacheSeconds=86400
 
 # Parameters check
