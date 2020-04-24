@@ -12,7 +12,7 @@ function echo_debug () {
     fi
 }
 echo_debug "begin"
-echo_debug "Docker Command Launcher (c) 2019 TIC para Bien"
+echo_debug "Docker Command Launcher (c) 2020 Ayuda Digital"
 
 # Functions
 function removeSentinel() {
@@ -42,7 +42,7 @@ commandList=(
     md2html:2.0.0
     mdline:1.0.0
 )
-imagePrefix="tpbtools/dc-"
+imagePrefix="ayudadigital/dc-"
 commandCacheSeconds=86400
 
 # Parameters check

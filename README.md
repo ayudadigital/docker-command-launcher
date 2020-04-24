@@ -1,4 +1,4 @@
-# TIC para Bien - Docker Command Launcher
+# Ayuda Digital - Docker Command Launcher
 
 Simply Bash script to run dockerized commands.
 
@@ -47,9 +47,9 @@ Other options:
 
 ## Available commands
 
-- Commit Validator ([commit-validator](https://github.com/tpbtools/dc-commit-validator))
-- Get Next Release Number ([get-next-release-number](https://github.com/tpbtools/dc-get-next-release-number))
-- Git Changelog Generator ([git-changelog-generator](https://github.com/tpbtools/dc-git-changelog-generator))
-- Hello World! ([hello-world](https://github.com/tpbtools/dc-hello-world))
-- Markdown to HTML file conversion ([md2html](https://github.com/tpbtools/dc-md2html))
-- Markdown to Timeline HTML ([mdline](https://github.com/tpbtools/dc-mdline))
+- Commit Validator ([commit-validator](https://github.com/ayudadigital/dc-commit-validator))
+- Get Next Release Number ([get-next-release-number](https://github.com/ayudadigital/dc-get-next-release-number))
+- Git Changelog Generator ([git-changelog-generator](https://github.com/ayudadigital/dc-git-changelog-generator))
+- Hello World! ([hello-world](https://github.com/ayudadigital/dc-hello-world))
+- Markdown to HTML file conversion ([md2html](https://github.com/ayudadigital/dc-md2html))
+- Markdown to Timeline HTML ([mdline](https://github.com/ayudadigital/dc-mdline))
