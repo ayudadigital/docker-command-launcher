@@ -1,6 +1,6 @@
 #!groovy
 
-@Library('github.com/ayudadigital/jenkins-pipeline-library@v5.0.0') _
+@Library('github.com/ayudadigital/jenkins-pipeline-library@v6.2.0') _
 
 // Initialize global config
 cfg = jplConfig('docker-command-launcher', 'bash', '', [email: env.CI_NOTIFY_EMAIL_TARGETS])
@@ -39,6 +39,6 @@ pipeline {
         ansiColor('xterm')
         buildDiscarder(logRotator(artifactNumToKeepStr: '20',artifactDaysToKeepStr: '30'))
         disableConcurrentBuilds()
-        timeout(time: 1, unit: 'DAYS')
+        timeout(time: 10, unit: 'MINUTES')
     }
 }
