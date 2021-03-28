@@ -1,5 +1,26 @@
 # Changelog
 
+## v4.1.0 (2021-03-28)
+
+### Changes
+
+#### Upgrade
+
+* Use latest commands releases ([7f1592a](https://github.com/ayudadigital/docker-command-launcher/commit/7f1592a))
+
+#### Build
+
+* Update Auto Release Log adding v4.1.0 info with JPL ([ce9861f](https://github.com/ayudadigital/docker-command-launcher/commit/ce9861f))
+* Use jpl v6.2.0 ([3ce02e8](https://github.com/ayudadigital/docker-command-launcher/commit/3ce02e8))
+
+#### Docs
+
+* Generate v4.0.0 changelog with JPL ([868b93c](https://github.com/ayudadigital/docker-command-launcher/commit/868b93c))
+
+### Authors
+
+* Pedro Amador
+
 ## v4.0.0 (2020-04-24)
 
 ### Changes
