@@ -35,12 +35,12 @@ function assertCommandExist () {
 
 # Initialize
 commandList=(
-    commit-validator:2.0.0
-    get-next-release-number:3.0.0
-    git-changelog-generator:3.0.0
-    hello-world:2.0.0
-    md2html:3.0.0
-    mdline:2.0.0
+    commit-validator:2.0.1
+    get-next-release-number:3.0.1
+    git-changelog-generator:3.0.1
+    hello-world:2.0.1
+    md2html:3.0.1
+    mdline:2.0.1
 )
 imagePrefix="ayudadigital/dc-"
 commandCacheSeconds=86400
